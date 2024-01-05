@@ -1,0 +1,64 @@
+BODY{
+FONT-SIZE: 12px;
+COLOR: #000000;
+FONT-FAMILY:  宋体;
+scrollbar-face-color: #DEE3E7;
+scrollbar-highlight-color: #FFFFFF;
+scrollbar-shadow-color: #DEE3E7;
+scrollbar-3dlight-color: #D1D7DC;
+scrollbar-arrow-color:  #006699;
+scrollbar-track-color: #EFEFEF;
+scrollbar-darkshadow-color: #98AAB1;
+}
+td { font-size:  9pt;}
+.tdbig { font-size:  10.5pt;}
+
+
+.ourfont {
+	FONT-SIZE: 9pt
+}
+.ourfont0 {
+	FONT-SIZE: 9pt; 
+}
+.ourfont1 {
+	FONT-SIZE: 9pt; 
+}
+.ourfont2 {
+	FONT-SIZE: 14px
+}
+.ourfont3 {
+	FONT-SIZE: 8pt
+}
+A {
+	COLOR: #550000; TEXT-DECORATION: none; TEXT-TRANSFORM: none
+}
+
+P {
+	FONT: 9pt 宋体; MARGIN: 0px
+}
+br {
+	FONT: 9pt 宋体; MARGIN: 0px
+}
+A {
+	FONT: 9pt 宋体; MARGIN: 0px
+}
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:unknown {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0033cc; TEXT-DECORATION: none
+}
+
+Table.clssideMenu {BACKGROUND-COLOR: #687870; }
+Table.clssideMenu A {COLOR: #ffffff;  TEXT-DECORATION: none}
+Table.clssideMenu A:hover {COLOR: #ccffcc;}
+iframe {  font-size: 12px; color: #FF99CC}
+.rainbow {
+	BEHAVIOR: url(rainbow.htc)
+}
